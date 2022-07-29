@@ -1,0 +1,45 @@
+.main{
+    background-color: aqua;
+    padding: 30px;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    text-decoration: none;
+}
+a:hover{
+    background-color: aliceblue;
+    text-decoration: underline;
+    color: red;
+}
+body{
+    background-color: black;
+    color: red;
+}
+
+.container {
+    height: 200px;
+    position: relative;
+  }
+  
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 45%;
+  }
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: red;
+}
+
+button:hover{
+    background-color:blue;
+    color: red;
+}
