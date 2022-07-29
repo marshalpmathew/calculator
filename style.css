@@ -1,0 +1,53 @@
+.main{
+    background-color: aqua;
+    padding: 30px;
+}
+
+.container{
+    padding: 10px;
+    background-color: crimson;
+    width: 300px;
+    height: 50px;
+    border-radius: 12px;
+}
+
+.halo{
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+
+.button{
+    margin-top: 444px;
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 21px;    
+    margin: 0 3px;
+    cursor: pointer;
+
+}
+input{
+    background-color: antiquewhite;
+    width: 300px;
+    height: 30px;
+
+}
+
+a{
+    color: red;
+    font-size: x-large;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    background-color: aliceblue;
+    text-decoration: underline;
+    color: red;
+}
